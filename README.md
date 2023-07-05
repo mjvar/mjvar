@@ -4,6 +4,6 @@ Welcome! I'm a CS and Interactive Media student at NYU Abu Dhabi exploring game 
 
 Pronouns: [he](https://pronoun.is/he) / [they](https://pronoun.is/they)  
 Email: [mjv379@nyu.edu](mailto:mjv379@nyu.edu)  
-Website: [here!](https://mjvar.github.io/)
+Website: [here!](https://mjvar.github.io/)  
 Linkedin: [here!](https://www.linkedin.com/in/mjvar/)  
 itch.io: [here!](https://infairvar.itch.io/)  
